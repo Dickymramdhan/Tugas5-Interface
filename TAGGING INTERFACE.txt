@@ -1,0 +1,4 @@
+Tagging Interface
+
+Tagging Interface (Penanda antarmuka) adalah interface tanpa ada method abstrak.
+digunakan untuk menambah tipe data untuk kelas yang mengimplementasikan nya dan menjadi interface induk untuk interface lain
